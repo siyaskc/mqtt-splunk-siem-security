@@ -47,9 +47,6 @@ README.md
 
 **Muhammed Siyas K C**
 
-MSc Cyber Security & Digital Forensics
-
-Aligarh Muslim University
 
 ---
 
